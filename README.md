@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h3 align="center">A Web Developer Full-Stack studying ways to speed up the web development</h3>
 
 - 🇧🇷 Brazil -> 🇨🇦 Canada
