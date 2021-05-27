@@ -10,8 +10,10 @@
 
 <br>
 
-<h3 align="center">Check out <a href="https://luisenriquefa14.github.io">my website</a></h3>
+<h3 align="center">Check out <a href="https://luishenriquefa14.github.io">my website</a></h3>
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=luishenriquefa14&show_icons=true&theme=dracula"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luishenriquefa14&show_icons=true&theme=dracula"/>
+</p>
