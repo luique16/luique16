@@ -1,11 +1,11 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h3 align="center">A Back-end Web Developer studying ways to speed up the web development</h3>
 
 - 🇧🇷 Brazil -> 🇨🇦 Canada
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Go lang
 - 🤓 Actually studying advanced algorithms and robotics
-- 🤔 I’m looking for help with Rust, Java and others
-- 💬 Ask me about Python, C++, JavaScript...
+- 🤔 I’m looking for help with Go, TypeScript and others
+- 💬 Ask me about Python, C++, NodeJS...
 - ⚡ Fun fact: I hate popcorn :P
 
 <br>
