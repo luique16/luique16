@@ -1,7 +1,7 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h3 align="center">A back-end web developer studying ways to speed up the web development.</h3>
 
-- 🇧🇷 Brazil -> 🇨🇦 Ca
+- 🇧🇷 Brazil -> 🇨🇦 Canada
 - 🌱 I’m currently learning GraphQL
 - 🤓 Actually studying AWS LAMBDA function.
 - 🤔 I’m looking for help with TypeScript, Serverless, Go...
