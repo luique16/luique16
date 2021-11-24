@@ -2,10 +2,10 @@
 <h3 align="center">A Back-end Web Developer studying ways to speed up the web development</h3>
 
 - 🇧🇷 Brazil -> 🇨🇦 Canada
-- 🌱 I’m currently learning Go lang
-- 🤓 Actually studying advanced algorithms and robotics
-- 🤔 I’m looking for help with Go, TypeScript and others
-- 💬 Ask me about Python, C++, NodeJS...
+- 🌱 I’m currently learning GraphQL
+- 🤓 Actually studying AWS LAMBDA function.
+- 🤔 I’m looking for help with TypeScript, Serverless, Go...
+- 💬 Ask me about NodeJS, C++...
 - ⚡ Fun fact: I hate popcorn :P
 
 <br>
