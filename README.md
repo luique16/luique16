@@ -10,7 +10,7 @@
 
 <br>
 
-<h3 align="center">Check out <a href="https://luishenriquefa14.github.io">my website</a> (out of date)</h3>
+<h3 align="center">Check out <a href="https://luishenriquefa14.github.io">my website</a>.</h3>
 
 <br>
 
