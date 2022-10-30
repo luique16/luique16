@@ -1,16 +1,14 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h3 align="center">A back-end web developer studying ways to speed up the web development.</h3>
 
 - 🇧🇷 Brazil -> 🇨🇦 Canada
-- 🌱 I’m currently learning GraphQL
-- 🤓 Actually studying AWS LAMBDA function.
-- 🤔 I’m looking for help with TypeScript, Serverless, Go...
-- 💬 Ask me about NodeJS, C++...
+- 🌱 I’m currently learning Cloud Services.
+- 💬 Ask me about NodeJS, Golang...
 - ⚡ Fun fact: I hate popcorn :P
 
 <br>
 
-<h3 align="center">Check out <a href="https://luishenriquefa14.github.io">my website</a> (out of date)</h3>
+<h3 align="center">Check out <a href="https://luishenriquefa14.github.io">my website</a>.</h3>
 
 <br>
 
