@@ -13,9 +13,9 @@
 
 ### 🗣️ About Me
 
-<p>&nbsp&nbsp&nbsp&nbsp My name is Luís Henrique, I'm 16 years old and I live in Brazil, where I'm currently in my second year of high school. I started programming at the age of 12 due to school, and have been developing web-related projects since I was 13.
+<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp My name is Luís Henrique, I'm 16 years old and I live in Brazil, where I'm currently in my second year of high school. I started programming at the age of 12 due to school, and have been developing web-related projects since I was 13.
 <br/>
-&nbsp&nbsp&nbsp&nbsp At school, I'm part of the Brazilian Olympiad of Informatics (OBI), where I study competitive programming, and I learned everything I know about web development on the internet. In 2021, I participated in the Brazilian Robotics Olympiad (OBR), where I learned new technologies and how to work better in a team, but even with all these experiences, I'm sure that what I love the most is web development, especially backend. 💜</p>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp At school, I'm part of the Brazilian Olympiad of Informatics (OBI), where I study competitive programming, and I learned everything I know about web development on the internet. In 2021, I participated in the Brazilian Robotics Olympiad (OBR), where I learned new technologies and how to work better in a team, but even with all these experiences, I'm sure that what I love the most is web development, especially backend. 💜</p>
 
 ### 💻 Skills
 
@@ -50,10 +50,18 @@ However, I also have knowledge about these technologies:
 - **`GitHub`**: I love the GitHub platform for its ease of use and availability.
 - **`Nvim`**: I started using Neovim for its lightness, but with it, I can code very quickly.
 
-### 🎸 Hobbies
+### 🎸 Interests
 
 - 🐥 I have a cockatiel named Kira and love birds.
 - 🎸 I am passionate about rock music and play the guitar.
 - 🍿 I do not like popcorn at all.
 - 💻 I used to hate programming when I started.
 - 🍁 I plan to study in Canada.
+
+### 📋 GitHub Stats
+
+<div align="center">
+   <a href="https://github.com/luishenriquefa14">
+    <img height="159em" src="https://github-readme-stats.vercel.app/api?username=luishenriquefa14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="159em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishenriquefa14&layout=compact&langs_count=16&theme=dracula"/>
+</div>
