@@ -1,60 +1,40 @@
-<h1 align="center"> Hey there! 👋 </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ccff&height=120&section=header"/>
 
-<h3 align="center"> A Back End Developer turning lines of code into powerful functionalities. </h3>
+<h4 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Luís+Henrique+👨‍💻!;" />
+</h4>
 
 <div align="center">
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/luishfa)
-[![Discord URL](https://img.shields.io/static/v1?color=red&label=discord&logo=discord&logoColor=white&style=for-the-badge&message=luique)](https://www.discord.com/app)
-[![Email URL](https://img.shields.io/static/v1?color=red&label=email&logo=gmail&logoColor=white&style=for-the-badge&message=contact)](https://mailto:luish.fa1515@gmail.com)
-[![Website URL](https://img.shields.io/static/v1?color=red&label=website&logo=website&logoColor=white&style=for-the-badge&message=check)](https://luishenriquefa14.github.io)
-
+<h3>Back End Developer</h3>
+ 
+<div align="center">
+  <a href="https://www.linkedin.com/in/luishfa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://luique.notion.site/luique/Lu-s-Henrique-bd17d02e397c45a6adabc591710ad282"><img src="https://img.shields.io/badge/-Website-%23333?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
+  <a href = "https://discordapp.com/users/621423171169419265"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luish.fa1515@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 </div>
 
 ### 🗣️ About Me
 
-I am a second-year high school student with knowledge in the following areas:
-</br>• JavaScript (TypeScript | NodeJS | Prisma | Express)
-</br>• Golang (Gorm | Gorilla | Gin)
-</br>• Git/GitHub
-</br>• HTTP
-</br>• Serverless
-</br>• WebSockets
-</br>• Authentication
-</br>• Cryptography
-</br>• Linux
-</br>• Global frameworks (JWT | Bcrypt | uuid)
+My name is Luís Henrique and I am 17 years old. I started programming in 2019, at the age of 12, and I have been studying web development since 2020. At school, I am part of the OBI (Brazilian Informatics Olympiad) and, during 2021, I participated in the OBR (Brazilian Robotics Olympiad).
 
-I started programming in 2019, at the age of 12, and have been studying web development since 2020. I have been using Linux as my primary operating system since July 2020, and I aim to learn new technologies and tools.
-
-At school, I am part of the OBI (Brazilian Olympiad in Informatics), and during 2021, I participated in the OBR (Brazilian Robotics Olympiad).
-
-</br>
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-### 🎸 Interests
+<br>
 
-- 🐥 I have a cockatiel named Kira and love birds.
-- 🎸 I am passionate about rock music and play the guitar.
-- 🍿 I do not like popcorn at all.
-- 💻 I used to hate programming when I started.
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,golang,rust,cpp,linux,neovim,git,github" />
+</div>
 
-### 📋 GitHub Stats
 
+<br>
 <div align="center">
-   <a href="https://github.com/luishenriquefa14">
-    <img height="159em" src="https://github-readme-stats.vercel.app/api?username=luishenriquefa14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="159em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishenriquefa14&layout=compact&langs_count=16&theme=dracula"/>
+  <div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luishenriquefa14&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" alt="Samuxka github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishenriquefa14&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
 </div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ccff&height=120&section=footer"/>
