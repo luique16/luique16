@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ccff&height=120&section=header"/>
 
-<h4 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Luís+Henrique+👨‍💻!;" />
-</h4>
+<h1 align="center" style="border-bottom: 0; padding-bottom: 0">
+Hey there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Luís Henrique
+</h1>
 
 <div align="center">
 
