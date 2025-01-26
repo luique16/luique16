@@ -18,7 +18,7 @@ Hey there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/m
 
 ### 🗣️ About Me
 
-My name is Luís Henrique and I am 17 years old. I started programming in 2019, at the age of 12, and I have been studying web development since 2020. At school, I am part of the OBI (Brazilian Informatics Olympiad) and, during 2021, I participated in the OBR (Brazilian Robotics Olympiad).
+My name is Luís Henrique and I am 18 years old. I started programming in 2019, at the age of 12, and I have been studying web development since 2020. At school, I am part of the OBI (Brazilian Informatics Olympiad) and, during 2021, I participated in the OBR (Brazilian Robotics Olympiad).
 
 </div>
 
