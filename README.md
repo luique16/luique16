@@ -14,6 +14,8 @@ Hey there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/m
 </div>
 </div>
 
+<br>
+
 I am a college student at the University of São Paulo (USP), focusing on back-end development and with experience in languages such as Golang, JavaScript and TypeScript.
 My interest in programming began at the age of 12, when I enrolled at Colégio Objetivo in 2019 and participated in the Brazilian Computer Science Olympiad (OBI). During this period, I also took my first steps in web development, an area that I fell in love with.
 
