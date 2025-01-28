@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ccff&height=120&section=header"/>
-
 <h1 align="center" style="border-bottom: 0; padding-bottom: 0">
 Hey there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Luís Henrique
 </h1>
@@ -16,9 +14,8 @@ Hey there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/m
 </div>
 </div>
 
-### 🗣️ About Me
-
-My name is Luís Henrique and I am 18 years old. I started programming in 2019, at the age of 12, and I have been studying web development since 2020. At school, I am part of the OBI (Brazilian Informatics Olympiad) and, during 2021, I participated in the OBR (Brazilian Robotics Olympiad).
+I am a college student at the University of São Paulo (USP), focusing on back-end development and with experience in languages such as Golang, JavaScript and TypeScript.
+My interest in programming began at the age of 12, when I enrolled at Colégio Objetivo in 2019 and participated in the Brazilian Computer Science Olympiad (OBI). During this period, I also took my first steps in web development, an area that I fell in love with.
 
 </div>
 
@@ -35,6 +32,3 @@ My name is Luís Henrique and I am 18 years old. I started programming in 2019, 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luishenriquefa14&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" alt="Samuxka github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishenriquefa14&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ccff&height=120&section=footer"/>
