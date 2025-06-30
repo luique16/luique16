@@ -31,6 +31,6 @@ My interest in programming began at the age of 12, when I enrolled at Colégio O
 <br>
 <div align="center">
   <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luishenriquefa14&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" alt="Samuxka github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishenriquefa14&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luique16&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" alt="Samuxka github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luique16&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
 </div>
